@@ -1,5 +1,5 @@
 # interspecificsML
-Repositorio de herramientas de machine learning usadas en los proyectos de Interspecifics
+Repositorio de herramientas de machine learning desarrolladas para las piezas de Interspecifics
 
 
 
